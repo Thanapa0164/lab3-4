@@ -1,0 +1,15 @@
+table{
+    width: auto;
+    border: 1px solid black;
+}
+
+td{ width: autu;
+    border: 1px solid black;
+}
+
+tr.textAB:hover{
+    background: lightcoral;
+}
+tr.textC:hover{
+    background: rgb(111, 215, 233);
+}
